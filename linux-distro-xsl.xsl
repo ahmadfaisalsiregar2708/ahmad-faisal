@@ -72,6 +72,11 @@
                                         <xsl:value-of select="Based"/>
                                     </td>
                                 </xsl:when>
+				<xsl:when test="Based = 'RHEL' or Based = 'Fedora Core' or Based = 'Mandrake'">
+				    <td bgcolor="red">
+					<xsl:value-of select="Based"/>
+				    </td>
+				</xsl:when>
                                 <xsl:when test="Based = 'Arch'or Based = 'Manjaro'">
                                     <td bgcolor="skyblue">
                                         <xsl:value-of select="Based"/>
