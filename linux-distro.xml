@@ -108,6 +108,111 @@
         <Class>Debian</Class>
     </distro>
     <distro>
+        <Id>101</Id>
+        <Name>Fedora</Name>
+        <Based>RHEL</Based>
+        <desktopEnvironment>Gnome3</desktopEnvironment>
+        <Class>RedHat</Class>
+    </distro>
+    <distro>
+        <Id>102</Id>
+        <Name>CentOS</Name>
+        <Based>RHEL</Based>
+        <desktopEnvironment>Gnome3</desktopEnvironment>
+        <Class>Redhat</Class>
+    </distro>
+    <distro>
+        <Id>103</Id>
+        <Name>CERN</Name>
+        <Based>RHEL</Based>
+        <desktopEnvironment>Gnome3</desktopEnvironment>
+        <Class>Redhat</Class>
+    </distro>
+    <distro>
+        <Id>104</Id>
+        <Name>StartCom</Name>
+        <Based>RHEL</Based>
+        <desktopEnvironment>Gnome3</desktopEnvironment>
+        <Class>Redhat</Class>
+    </distro>
+    <distro>
+        <Id>105</Id>
+        <Name>Fedora</Name>
+        <Based>Fedora Core</Based>
+        <desktopEnvironment>Gnome3</desktopEnvironment>
+        <Class>Redhat</Class>
+    </distro>
+    <distro>
+        <Id>106</Id>
+        <Name>NST</Name>
+        <Based>Fedora Core</Based>
+        <desktopEnvironment>Gnome3</desktopEnvironment>
+        <Class>Redhat</Class>
+    </distro>
+    <distro>
+        <Id>107</Id>
+        <Name>Amahi</Name>
+        <Based>Fedora Core</Based>
+        <desktopEnvironment>Gnome3</desktopEnvironment>
+        <Class>Redhat</Class>
+    </distro>
+    <distro>
+        <Id>108</Id>
+        <Name>Momonga</Name>
+        <Based>Fedora Core</Based>
+        <desktopEnvironment>Gnome3</desktopEnvironment>
+        <Class>Redhat</Class>
+    </distro>
+    <distro>
+        <Id>109</Id>
+        <Name>Ekaaty</Name>
+        <Based>Fedora Core</Based>
+        <desktopEnvironment>Gnome3</desktopEnvironment>
+        <Class>Redhat</Class>
+    </distro>
+    <distro>
+        <Id>110</Id>
+        <Name>AsianLinux</Name>
+        <Based>Fedora Core</Based>
+        <desktopEnvironment>Gnome3</desktopEnvironment>
+        <Class>Redhat</Class>
+    </distro>
+    <distro>
+        <Id>111</Id>
+        <Name>FoX</Name>
+        <Based>Fedora Core</Based>
+        <desktopEnvironment>Gnome3</desktopEnvironment>
+        <Class>Redhat</Class>
+    </distro>
+    <distro>
+        <Id>112</Id>
+        <Name>OpenSLS</Name>
+        <Based>Mandrake</Based>
+        <desktopEnvironment>Gnome3</desktopEnvironment>
+        <Class>Redhat</Class>
+    </distro>
+    <distro>
+        <Id>113</Id>
+        <Name>SAM</Name>
+        <Based>Mandrake</Based>
+        <desktopEnvironment>Gnome3</desktopEnvironment>
+        <Class>Redhat</Class>
+    </distro>
+    <distro>
+        <Id>114</Id>
+        <Name>ALT</Name>
+        <Based>Mandrake</Based>
+        <desktopEnvironment>Gnome3</desktopEnvironment>
+        <Class>Redhat</Class>
+    </distro>
+    <distro>
+        <Id>115</Id>
+        <Name>DemoLinux</Name>
+        <Based>Mandrake</Based>
+        <desktopEnvironment>Gnome3</desktopEnvironment>
+        <Class>Redhat</Class>
+    </distro>
+    <distro>
         <Id>201</Id>
         <Name>ArchLinux</Name>
         <Based>Arch</Based>
